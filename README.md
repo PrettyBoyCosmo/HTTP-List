@@ -2,7 +2,6 @@
 - a list of websites that still use http :|
 - please use this list responsibly
 
-
 ## HTTP Websites
 - http://www.socialstudieshelp.com/
 - http://targetedattacks.trendmicro.com/
@@ -17,3 +16,32 @@
 - http://www.jedi.be/
 - http://www.renewaloffaith.org
 - http://www.grose.us
+- http://www.southcn.com/
+- http://www.dangdang.com/
+- http://shippingchina.com/
+- http://www.hexun.com/
+- http://chinanetrank.com/
+- http://www.china.com.cn/
+- http://www.house365.com/
+- http://dedecms.com/
+- http://www.chinanews.com/
+- http://www.it168.com/
+- http://www.faqs.org/faqs/
+- http://www.gusuwang.com/
+- http://www.360doc.com/index.html
+- http://icio.us/
+- http://www.sonhoo.com/
+- http://www.chinadaily.com.cn/
+- http://cnnic.cn/
+- http://www.fao.org/home/en
+- http://360.com/
+- http://www.gov.cn/
+- http://soso.com/
+- http://example.com/
+- http://people.com.cn/
+- http://eepurl.com/
+- http://swiat-kamienia.pl/en/
+- http://www.rednet.cn/index.html
+- http://babytree.com/
+- http://go.com/
+- http://xinhuanet.com/
