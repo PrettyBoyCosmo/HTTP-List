@@ -5,7 +5,6 @@
 ## HTTP Websites
 - http://www.socialstudieshelp.com/
 - http://targetedattacks.trendmicro.com/
-- http://slaveryandremembrance.org
 - http://blog.adw.org
 - http://www.convertit.com
 - http://streamhd4k.com/
