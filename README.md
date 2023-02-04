@@ -38,7 +38,6 @@
 - http://360.com/
 - http://www.gov.cn/
 - http://soso.com/
-- http://example.com/
 - http://people.com.cn/
 - http://eepurl.com/
 - http://swiat-kamienia.pl/en/
